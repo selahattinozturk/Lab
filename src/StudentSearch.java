@@ -27,7 +27,7 @@ result. add (student);
 }
 if (result.isEmpty()) {
 throw new Exception( "There is no student with the given name!" );
-}
+}//comment2
 return result; //returns
 }
 }
